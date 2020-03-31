@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1585676329 source:c:\users\brent\desktop\aabb\aabb\cpp\main.cpp
+	"SFML/Graphics.hpp"
+	<iostream>
+	"../hpp/hitbox.hpp"
+	<vector>
+
+1585675383 c:\users\brent\desktop\aabb\aabb\hpp\hitbox.hpp
+	"SFML/Graphics.hpp"
+	<vector>
+
+1585675725 source:c:\users\brent\desktop\aabb\aabb\cpp\hitbox.cpp
+	"../hpp/hitbox.hpp"
+	<iostream>
+
